@@ -1,7 +1,7 @@
 # GrabTc
 
 Earn Crypto Web Script
-![image](xxxx)
+![image](https://github.com/sixteen-crypto/grabtc/blob/main/Screenshot_20230821-040920.png)
 
 # Get your API for Audio Captcha
   - http://assemblyai.com/
